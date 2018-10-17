@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cam 6DoF App</string>
+    <string name="tracking_lib_version">Tracking lib version:</string>
+    <string name="print_pose_data">Print pose data</string>
+    <string name="tracking_firmware_version">Tracking firmware version:</string>
+    <string name="record_pose_data">Record pose data</string>
+    <string name="start">Start</string>
+    <string name="tracking_device_is_disconnected">Tracking device is disconnected</string>
+    <string name="tracking_lib_version_label">Tracking lib version:</string>
+    <string name="status_disconnected">TM device disconnected</string>
+    <string name="stop">Stop</string>
+    <string name="error_state_message">Tracking device is in error state, hard reset is required</string>
+    <string name="status_connected">TM device connected</string>
+    <string name="fw_version_label">Tracking firmware version:</string>
+    <string name="dfu_failure_message">FW load process failed</string>
+    <string name="calibration_load_failure_message">Failed to load calibration data</string>
+</resources>

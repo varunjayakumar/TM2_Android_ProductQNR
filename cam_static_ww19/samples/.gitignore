@@ -1,0 +1,14 @@
+.externalNativeBuild
+.settings
+.gradle
+
+output_build
+local.properties
+
+/.idea
+/build
+/captures
+
+gradle
+gradlew
+gradlew.bat
